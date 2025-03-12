@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm layan! 👋
 
-<!--
-**laya1n/laya1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Python developer** and **AI enthusiast** passionate about building intelligent systems that make a positive impact. I love working on projects that combine **machine learning, natural language processing, and mental health support** to create meaningful solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on a **mental health chatbot** powered by AI and NLP.
+- 🌱 I’m currently learning **advanced NLP techniques** and **LLM fine-tuning**.
+- 👯 I’m looking to collaborate on **AI-driven mental health projects** or **open-source contributions**.
+- 💬 Ask me about **Python, LangChain, Hugging Face, or building chatbots**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+### Languages
+- Python, Java, SQL, C#
+### Frameworks & Libraries
+- LangChain, Hugging Face Transformers, Flask
+### Tools & Platforms
+- Git, Docker, PostgreSQL, ChromaDB, Groq API
+
+## 🔗 Let's Connect
+- [LinkedIn](www.linkedin.com/in/layan-alshehri-425964216)
+- [Email](layan552003@hotmail.com)
